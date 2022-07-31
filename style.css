@@ -76,7 +76,6 @@ body {
 }
 
 .user-list .user-info {
-    background-color: burlywood;
     margin-left: 10px;
 }
 
@@ -86,7 +85,6 @@ body {
 }
 
 .user-list .user-info p {
-    background-color: pink;
     font-size: 12px;
 }
 
